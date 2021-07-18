@@ -1,29 +1,33 @@
 ## Exercícios Resolvidos Java - Digital Innovation One
 
-**1 - Primeiros Passos em Java 3/3** 
+- [x] **1 - Primeiros Passos em Java 3/3** 
 
-01 - Visita na feira
+  01 - Visita na feira
 
-02 - Seis números ímpares
+  02 - Seis números ímpares
 
-03 - Quantidade de Números Positivos
+  03 - Quantidade de Números Positivos
 
-**2 - Desafios numéricos em Java 3/3**
+  
 
-01 - Análise de Números
+- [x] **2 - Desafios numéricos em Java 3/3**
 
-02 - Folha de Pagamento
+  01 - Análise de Números
 
-03 - Contagem de Cédulas
+  02 - Folha de Pagamento
 
-**3 - Solucionando Desafios em Java 2/5** 
+  03 - Contagem de Cédulas
 
-01 - Área do Círculo
+  
 
-02 - Média 3
+- [ ] **3 - Solucionando Desafios em Java 2/5** 
 
-03 - 
+  01 - Área do Círculo
 
-04 - 
+  02 - Média 3
 
-05 -
+  03 - 
+
+  04 - 
+
+  05 -
