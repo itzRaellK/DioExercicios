@@ -18,8 +18,3 @@
 
 - 01 - Área do Círculo
 - 02 - Média 3
-
-### 4 - Projeto DIO 1
-
-- Construindo um sistema de controle de ponto e acesso com Spring Boot
-- Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot
